@@ -35,7 +35,7 @@ python -m pip install -r requirements.txt
 python run.py
 ```
 
-Open **http://127.0.0.1:8000**. API documentation is available at **http://127.0.0.1:8000/docs**. Until this repository is published to GitHub, use the downloaded source directory in place of the clone step.
+Open **http://127.0.0.1:8000**. API documentation is available at **http://127.0.0.1:8000/docs**.
 
 The first run creates `data/traceguard.db`. Subsequent runs retain imported events and triage history. There is no account signup and no API key.
 
